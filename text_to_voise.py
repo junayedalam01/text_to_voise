@@ -1,5 +1,7 @@
 import pyttsx3
+print('''make by 
 
+   @junayedalam01         ''')
 text = str(input("Enter the text to voice convert: "))
 
     
